@@ -2,7 +2,7 @@
 title: Phu Vuong
 description: 'Business Card Page'
 url: 'http://phuvuong.github.io'
-baseurl: ''
+baseurl: '/blog'
 profilepic: '/images/phu.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
